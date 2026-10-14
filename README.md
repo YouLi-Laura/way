@@ -2,7 +2,7 @@
 
 Way 是一款 AI 自由行规划工具，将地图路线和每日旅行攻略放在同一份计划中，支持挑选体验、生成行程、调整安排和导出 PDF。
 
-[打开 Way](https://youli-laura.github.io/way-showcase/) · [产品需求文档](docs/PRD.md) · [测试报告](docs/testing.md)
+[打开 Way](https://youli-laura.github.io/way/) · [产品需求文档](docs/PRD.md) · [测试报告](docs/testing.md)
 
 ## 版本
 
@@ -11,7 +11,7 @@ Way 是一款 AI 自由行规划工具，将地图路线和每日旅行攻略放
 | Showcase | 体验大阪与鸟取、新西兰南岛、大理三个旅行案例 |
 | Live | 暂不开放，仅本机使用 |
 
-两个版本在同一网页展示，可从顶部切换。
+Way 包含 Showcase 展示模式与 Live 实时规划模式，在同一网页中切换。Showcase 展示分支使用预设案例；Live 暂不开放，仅本机使用。
 
 ## 功能
 
