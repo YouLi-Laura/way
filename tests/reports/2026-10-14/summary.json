@@ -20,7 +20,34 @@
   },
   "live": {
     "publicPlanningAvailable": false,
-    "localUsable": true
+    "localUsable": true,
+    "report": "docs/live-testing.md",
+    "reportType": "successful_samples_and_passed_checks",
+    "successfulModelSamples": {
+      "verifiedOn": "2026-10-13",
+      "qualifiedPlans": 29,
+      "correctModifications": 19,
+      "successfulModificationMedianMs": 29516,
+      "successfulModificationMaxMs": 168901,
+      "personalMedianTargetMs": 40000
+    },
+    "passedChecks": {
+      "workspaceCasesListed": 46,
+      "mapCases": 6,
+      "geography": {
+        "plans": 135,
+        "dayLocationsIdentified": 431,
+        "cityLevel": 319,
+        "placeLevel": 112
+      },
+      "publicPageBodiesRead": 318,
+      "formalBrowserViews": 4,
+      "pdfPagesVisuallyChecked": 13,
+      "localInterfaceWidths": [
+        1440,
+        375
+      ]
+    }
   },
   "publicBuildViews": [
     {
