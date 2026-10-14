@@ -1,0 +1,50 @@
+
+Running 40 tests using 2 workers
+
+(node:53961) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:53962) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:21:44 › 大阪＋鸟取: browse all places and try another conversation path (2.1s)
+  ✓   2 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:21:44 › 大阪＋鸟取: browse all places and try another conversation path (2.7s)
+  ✓   3 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:21:44 › 新西兰南岛: browse all places and try another conversation path (1.5s)
+  ✓   4 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:21:44 › 新西兰南岛: browse all places and try another conversation path (2.2s)
+  ✓   5 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:21:44 › 大理: browse all places and try another conversation path (1.5s)
+  ✓   6 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:21:44 › 大理: browse all places and try another conversation path (2.1s)
+  ✓   7 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:60:44 › 大阪＋鸟取: select, plan, adjust, undo and reload without API (4.7s)
+  ✓   8 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:60:44 › 大阪＋鸟取: select, plan, adjust, undo and reload without API (4.4s)
+  ✓   9 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:60:44 › 新西兰南岛: select, plan, adjust, undo and reload without API (3.6s)
+  ✓  10 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:60:44 › 新西兰南岛: select, plan, adjust, undo and reload without API (5.3s)
+  ✓  11 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:60:44 › 大理: select, plan, adjust, undo and reload without API (3.9s)
+  ✓  13 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:199:1 › switches scenarios into their fixed conversation with keyboard-friendly choices (933ms)
+  ✓  14 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:227:1 › deletes retired records and opens only the three current examples (881ms)
+  ✓  15 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:263:1 › opens a saved old Japan route at the fixed first-step conversation (439ms)
+  ✓  12 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:60:44 › 大理: select, plan, adjust, undo and reload without API (5.1s)
+  ✓  16 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:278:44 › 大阪＋鸟取: combine map regions in-session and reopen at step one (2.5s)
+  ✓  17 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:199:1 › switches scenarios into their fixed conversation with keyboard-friendly choices (1.0s)
+  ✓  19 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:227:1 › deletes retired records and opens only the three current examples (833ms)
+  ✓  18 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:278:44 › 新西兰南岛: combine map regions in-session and reopen at step one (1.8s)
+  ✓  20 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:263:1 › opens a saved old Japan route at the fixed first-step conversation (415ms)
+  ✓  21 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:278:44 › 大理: combine map regions in-session and reopen at step one (2.5s)
+  ✓  22 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:278:44 › 大阪＋鸟取: combine map regions in-session and reopen at step one (2.4s)
+  ✓  23 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:313:44 › 大阪＋鸟取: an existing v2 case reopens at the fixed conversation (475ms)
+  ✓  25 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:313:44 › 新西兰南岛: an existing v2 case reopens at the fixed conversation (499ms)
+  ✓  26 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:313:44 › 大理: an existing v2 case reopens at the fixed conversation (523ms)
+  ✓  24 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:278:44 › 新西兰南岛: combine map regions in-session and reopen at step one (2.5s)
+  ✓  27 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:332:44 › 大阪＋鸟取: fixed conversation survives refresh and leads to map choices (2.0s)
+  ✓  29 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:332:44 › 新西兰南岛: fixed conversation survives refresh and leads to map choices (1.3s)
+  ✓  28 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:278:44 › 大理: combine map regions in-session and reopen at step one (2.5s)
+  ✓  31 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:313:44 › 大阪＋鸟取: an existing v2 case reopens at the fixed conversation (504ms)
+  ✓  32 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:313:44 › 新西兰南岛: an existing v2 case reopens at the fixed conversation (489ms)
+  ✓  33 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:313:44 › 大理: an existing v2 case reopens at the fixed conversation (471ms)
+  ✓  30 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:332:44 › 大理: fixed conversation survives refresh and leads to map choices (2.0s)
+  ✓  35 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:348:1 › the area map and one selected-region card share the desktop view (730ms)
+  ✓  36 [desktop-chromium] › tests/e2e/planning-journey.spec.ts:374:1 › desktop step returns reveal the current heading and preserve the generated route (1.0s)
+  ✓  34 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:332:44 › 大阪＋鸟取: fixed conversation survives refresh and leads to map choices (1.9s)
+  ✓  37 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:332:44 › 新西兰南岛: fixed conversation survives refresh and leads to map choices (1.9s)
+  ✓  38 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:332:44 › 大理: fixed conversation survives refresh and leads to map choices (2.4s)
+  -  39 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:348:1 › the area map and one selected-region card share the desktop view
+  -  40 [mobile-chromium] › tests/e2e/planning-journey.spec.ts:374:1 › desktop step returns reveal the current heading and preserve the generated route
+
+  2 skipped
+  38 passed (40.3s)

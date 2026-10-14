@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-14",
+  "unit": {
+    "files": 101,
+    "passed": 908,
+    "failed": 0
+  },
+  "showcase": {
+    "passed": 38,
+    "skipped": 2,
+    "failed": 0,
+    "desktopWidth": 1440,
+    "mobileWidth": 375,
+    "skips": "Desktop-only checks skipped on mobile"
+  },
+  "staticChecks": {
+    "types": true,
+    "lint": true,
+    "publicBuild": true
+  },
+  "live": {
+    "publicPlanningAvailable": false,
+    "localUsable": true
+  },
+  "publicBuildViews": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "errors": [],
+      "api": [],
+      "passed": true
+    },
+    {
+      "viewport": {
+        "width": 375,
+        "height": 812
+      },
+      "errors": [],
+      "api": [],
+      "passed": true
+    },
+    {
+      "viewport": {
+        "width": 812,
+        "height": 375
+      },
+      "errors": [],
+      "api": [],
+      "passed": true
+    }
+  ],
+  "personalBuildViews": [
+    {
+      "width": 1440,
+      "errors": [],
+      "passed": true
+    },
+    {
+      "width": 375,
+      "errors": [],
+      "passed": true
+    }
+  ]
+}
