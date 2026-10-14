@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="370" viewBox="0 0 1280 370" role="img" aria-labelledby="title desc">
+  <title id="title">Way · 旅行，按你的方式。</title>
+  <desc id="desc">自由行规划，从挑选体验到路线与每日路书。右侧用一条路线连接三个行程节点。</desc>
+  <defs><clipPath id="frame"><rect width="1280" height="370" rx="24"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="370" fill="#f3f8fb"/>
+    <path d="M866-84c-127 40-100 169-190 254s-83 172-9 247M955-92c-135 49-112 164-193 253s-76 168-10 253M1043-84c-136 49-109 164-194 251s-74 163-10 248M1131-78c-136 49-109 164-194 251s-74 163-10 248M1219-72c-136 49-109 164-194 251s-74 163-10 248M1307-66c-136 49-109 164-194 251s-74 163-10 248" fill="none" stroke="#dce8ed" stroke-width="1.4"/>
+    <g font-family="Avenir Next, PingFang SC, Microsoft YaHei, sans-serif">
+      <text x="64" y="121" fill="#183e50" font-size="102" font-weight="850" letter-spacing="-6">Way</text>
+      <path d="m262 44 20 3-3 20" fill="none" stroke="#df8c40" stroke-width="5"/>
+      <text x="65" y="209" fill="#126487" font-size="52" font-weight="650" letter-spacing="1">旅行，按你的方式。</text>
+      <text x="67" y="262" fill="#486574" font-size="24">从想去的地方，到每天怎么走。</text>
+      <text x="67" y="325" fill="#486574" font-size="17" letter-spacing="3">体验选择 · 路线地图 · 每日路书</text>
+    </g>
+    <path d="M899 99c134-62 310 3 259 97-29 53-171-32-213 20-47 60 115 69 90 108" fill="none" stroke="#ffffff" stroke-width="15" stroke-linecap="round"/>
+    <path d="M899 99c134-62 310 3 259 97-29 53-171-32-213 20-47 60 115 69 90 108" fill="none" stroke="#126487" stroke-width="4" stroke-linecap="round"/>
+    <g font-family="Avenir Next, PingFang SC, Microsoft YaHei, sans-serif" text-anchor="middle">
+      <circle cx="899" cy="99" r="23" fill="#ffe29a" stroke="#f3f8fb" stroke-width="5"/>
+      <text x="899" y="106" fill="#51421a" font-size="19" font-weight="700">01</text>
+      <circle cx="1158" cy="196" r="23" fill="#126487" stroke="#f3f8fb" stroke-width="5"/>
+      <text x="1158" y="203" fill="#fff" font-size="19" font-weight="700">02</text>
+      <circle cx="1035" cy="324" r="23" fill="#ed9c69" stroke="#f3f8fb" stroke-width="5"/>
+      <text x="1035" y="331" fill="#183e50" font-size="19" font-weight="700">03</text>
+    </g>
+    <rect x=".75" y=".75" width="1278.5" height="368.5" rx="23.25" fill="none" stroke="#dce8ed" stroke-width="1.5"/>
+  </g>
+</svg>
